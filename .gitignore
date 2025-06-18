@@ -1,0 +1,22 @@
+# Временные файлы
+*.tmp
+*.log
+*.swp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Локальные настройки
+.env
+*.local
+
+# Сборки
+build/
+dist/
+*.pyc
+__pycache__/
